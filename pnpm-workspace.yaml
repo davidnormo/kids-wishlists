@@ -1,0 +1,2 @@
+onlyBuiltDependencies:
+  - esbuild ## Optimizes binaries to improve performance - https://github.com/evanw/esbuild/issues/4085#issuecomment-2696009329

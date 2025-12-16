@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "preact",
+    "strict": true,
+    "noImplicitAny": false,
+    "lib": ["DOM", "ES2023", "DOM.Iterable"],
+    "target": "es2023",
+    "moduleResolution": "bundler",
+    "module": "esnext",
+    "types": ["vite/client", "preact", "./src/global.d.ts"]
+  }
+}
